@@ -53,6 +53,6 @@ A patient-centric electronic health data gateway where patients explicitly manag
 ```text
 .
 ├── README.md                          # Project overview and requirements specification
-├── Requirements_Table.docx             # Complete Requirements Table deliverable[cite: 2]
+├── Requirements_Table.pdf           # Complete Requirements Table deliverable[cite: 2]
 ├── use_case_diagram.pdf               # UML Use-Case Diagram[cite: 1, 2]
-└── use_case_specification.docx        # 1-Page Use-Case Flow document[cite: 1, 2]
+└── use_case_specification.pdf        # 1-Page Use-Case Flow document[cite: 1, 2]
